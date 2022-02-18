@@ -25,7 +25,7 @@ network.host: localhost
 #
 http.port: 9200
 path:
-  data: /data/data
-  logs: /data/log
-  plugins: /data/plugins
-  work: /data/work
+    data: /data/data
+    logs: /data/log
+    plugins: /data/plugins
+    work: /data/work
